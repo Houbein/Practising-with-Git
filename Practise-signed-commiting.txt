@@ -1,1 +1,1 @@
-Just a file to practise pushing a signed commit to Github. 
+Just a file for practising pushing a signed commit to Github. 
